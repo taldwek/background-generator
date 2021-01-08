@@ -1,3 +1,3 @@
 const myFunc = () => {
-    console.log(x)
+    console.log(y)
 } 
